@@ -1,0 +1,3 @@
+key_name = SEOUL-SRE-K8S-BASTION
+name = SEOUL-SRE-SKC4-BASTION
+public_ip = 15.165.88.53
